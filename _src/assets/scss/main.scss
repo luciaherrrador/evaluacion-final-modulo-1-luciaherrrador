@@ -1,8 +1,8 @@
 @import 'core/variables';
 @import 'core/normalize';
+@import 'components/footer';
+@import 'components/header';
+@import 'components/hero';
+@import 'components/reasons';
+@import 'components/window';
 
-body {
-	background: url('../images/logo-adalab-80px.png') center center no-repeat $color-white;
-	margin: 0;
-	height: 100vh;
-}
