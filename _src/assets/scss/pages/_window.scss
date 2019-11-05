@@ -41,13 +41,13 @@
 }
 
 .articlew__paragraph{
-color:$color-greyish-brown;
-font-family:$font-text;
-font-size:18px;
-margin-bottom:45px;
-line-height:1.5;
-  @media all and (min-width:768px){
-  font-size:20px;
+  color:$color-greyish-brown;
+  font-family:$font-text;
+  font-size:18px;
+  margin-bottom:45px;
+  line-height:1.5;
+    @media all and (min-width:768px){
+    font-size:20px;
   }
 }
 
