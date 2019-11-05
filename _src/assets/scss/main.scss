@@ -1,10 +1,11 @@
 @import 'core/variables';
 @import 'core/normalize';
-@import 'components/footer';
-@import 'components/header';
+@import 'layout/footer';
+@import 'layout/header';
+@import 'layout/default';
 @import 'components/hero';
-@import 'components/reasons';
-@import 'components/window';
-@import 'layout/default'
+@import 'pages/reasons';
+@import 'pages/window';
+
 
   
